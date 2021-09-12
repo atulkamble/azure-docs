@@ -24,7 +24,7 @@ This document details how to use Bash in Azure Cloud Shell in the [Azure portal]
 ![Screenshot showing how to start Azure Cloud Shell in the Azure portal.](media/quickstart/shell-icon.png)
 
 2. Select a subscription to create a storage account and Microsoft Azure Files share.
-3. Select "Create storage"
+3. Select "Create storage".
 
 > [!TIP]
 > You are automatically authenticated for Azure CLI in every session.
